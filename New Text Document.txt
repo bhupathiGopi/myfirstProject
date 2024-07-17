@@ -4,3 +4,4 @@ this is my third commit from x
 this is from dev branch
 this is devnranch merge to master
 this is 6th time
+this is 7th line
