@@ -2,8 +2,5 @@ this is my first commit
 this is my second commit from y
 this is my third commit from x
 this is from dev branch
-<<<<<<< HEAD
-
-=======
 this is devnranch merge to master
->>>>>>> develop
+
